@@ -12,3 +12,5 @@ Goal: learn Jax and distributed training/inference by the end of January (in rou
 - [ ] GPT with test time RL training (week 5)
 
 For these to be any good, especially the LLMs, I'll need to learn how to run on distributed hardware. Let's do it!
+
+All the computation will be in notebooks for the given task for ease of use and visualization.
