@@ -10,6 +10,7 @@ Goal: learn Jax and distributed training/inference by the end of January (in rou
 - [ ] GPT2 / NanoGPT (week 3)
 - [ ] GPT3 (week 4)
 - [ ] GPT with test time RL training (week 5)
+- [ ] SAE features (week 5)
 
 For these to be any good, especially the LLMs, I'll need to learn how to run on distributed hardware. Let's do it!
 
